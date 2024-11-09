@@ -1,2 +1,1 @@
 # sypto_code
-  
